@@ -22,6 +22,8 @@ dependencies:
   cupertino_icons: ^0.1.2
   flutter_speed_dial: ^1.2.5
   audio_service: ^0.5.7
+  audioplayers: ^0.14.0
+
 
 
 
@@ -43,18 +45,32 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-  - assets/meme1.jpg
-  - assets/title.png
-  - assets/sleep.png
-  - assets/stretch.png
-  - assets/run.png
-  - assets/proteinatk.png
-  - assets/grim_study.png
-  - assets/grim_reading.png
-  - assets/death_resturant.png
-  - assets/death_korean_vampire_flirt.png
-  - assets/DEATH_CYCLOPSE.png
-  - assets/game_over.png
+    - assets/meme1.jpg
+    - assets/title.png
+    - assets/sleep.png
+    - assets/stretch.png
+    - assets/run.png
+    - assets/proteinatk.png
+    - assets/grim_study.png
+    - assets/grim_reading.png
+    - assets/death_resturant.png
+    - assets/death_korean_vampire_flirt.png
+    - assets/DEATH_CYCLOPSE.png
+    - assets/game_over.png
+    - assets/grimtest.gif
+    - assets/grimbomb.gif
+    - assets/level1vic.gif
+    - assets/incloset.png
+    - assets/search.png
+    - assets/search1.png
+    - assets/search2.png
+    - assets/sleeping_1_01.png
+    - assets/sleeping_2_01.png
+    - assets/sleeping_3_01.png
+    - assets/sleeping_4_01.png
+    - assets/sleeping_xray_01.png
+    - assets/smoke.png
+    - assets/streatch.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
